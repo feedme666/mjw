@@ -1,6 +1,3 @@
-// vercel-django-example/vercel.json
-// https://github.com/jayhale/vercel-django-example/blob/main/vercel.json#L1
-
 {
     "builds": [{
         "src": "vercel_app/wsgi.py",
